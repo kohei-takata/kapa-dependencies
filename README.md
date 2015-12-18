@@ -1,5 +1,5 @@
 # kapa-dependencies
-Sources of dependendencies to be published
+Sources of dependencies to be published
 
 Open source libraries that needs to be published.
 
